@@ -25,6 +25,10 @@ This repo is part of my journey to master Python from the very basics to advance
 ## 🧠 Learning Goals
 
 - Understand how to display output using `print()`
+
+✍️ Author
+Made with ❤️ by [shekhar]
+Exploring deeper layers of Python with every repo.
 - Learn how to write clear and readable code using comments
 - Build the habit of documenting your code for better understanding
 
